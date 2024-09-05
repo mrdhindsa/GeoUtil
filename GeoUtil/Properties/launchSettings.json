@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GeoUtil": {
+      "commandName": "Project",
+      "commandLineArgs": "\"LosAngeles\""
+    }
+  }
+}
